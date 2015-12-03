@@ -1,13 +1,20 @@
 {
   "name": "edm-light-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A light and pleasant theme",
+  "version": "0.1.0",
+  "description": "A light syntax theme inspired by Visual Studio",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/edm-light-syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edm-opensource/edm-light-syntax"
+  },
+  "bugs": {
+    "url": "https://github.com/edm-opensource/edm-light-syntax/issues"
+  },
+  "homepage": "https://github.com/edm-opensource/edm-light-syntax#readme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
