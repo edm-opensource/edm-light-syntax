@@ -1,7 +1,7 @@
 {
   "name": "edm-light-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A light syntax theme inspired by Visual Studio",
   "keywords": [
     "syntax",
