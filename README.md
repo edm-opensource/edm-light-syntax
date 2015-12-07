@@ -9,6 +9,7 @@ A light and pleasant theme. Currently made to suit JavaScript and Go.
 Feel free to adapt this theme to other languages. If you do this, make the changes specifik to that language without changing the apperance of others.
 
 To contribute:
+
 1. Fork this repository
 2. Write code
 3. Commit changes
